@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Agbama Akem
 - Your one stop Freelancer
 - 👀 I’m interested in ...Full Stack Development
-- 🌱 I’m currently learning ...Vue Js
 - 💞️ I’m looking to collaborate on ...A Full stack project
 - 📫 How to reach me ...+2347025178812
 
